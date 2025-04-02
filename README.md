@@ -1,10 +1,10 @@
-# Person Tracking with Ultralytics YOLOv8
+# Person Tracking with Ultralytics
 
 This project provides a simple and efficient way to track people in videos using Ultralytics YOLOv8 and ByteTrack. It processes input videos, detects and tracks people, and outputs an annotated video with bounding boxes and tracking IDs.
 
 ## Features
 
-- Person detection using YOLOv8
+- Person detection using YOLO model
 - Multiple object tracking with ByteTrack
 - Support for GPU acceleration
 - Progress bar for tracking processing status
